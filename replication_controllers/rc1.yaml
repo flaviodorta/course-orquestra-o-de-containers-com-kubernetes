@@ -1,0 +1,8 @@
+# apiVersion: apps/v1
+# kind: ReplicationController
+# metadata:
+#   name: frontend-rc1
+#   labels:
+#     app: frontend
+# spec:
+#   template:
